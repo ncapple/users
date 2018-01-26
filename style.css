@@ -1,0 +1,39 @@
+*{
+    padding: 0px;
+    margin: 10px auto;
+    /* border: 1px red solid; */
+}
+
+body{
+    width: 970px;
+}
+
+.table, th{
+    width: 500px;
+    text-align: center;
+    padding: 5px 15px;
+    border: 2px solid black;
+}
+
+.form{
+    width: 290px;
+    margin-top: 20px;
+    border: 2px solid black;
+    padding-left: 20px;
+ 
+}
+
+.form input{
+display: inline;
+text-align: center;
+}
+
+label{
+    text-align: initial;
+    margin-right: 2px;
+    display: inline-block;
+    font-weight: bold;
+
+    
+    
+}
